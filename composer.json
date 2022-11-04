@@ -1,0 +1,7 @@
+{
+    "name": "intsar/hello-world",
+    "description": "Just a simple Hello World",
+    "require": {
+        "php": ">=7.0"
+    }
+}
